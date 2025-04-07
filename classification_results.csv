@@ -1,0 +1,5 @@
+Class,Correct predictions,Total amount,Accuracy (%)
+Mild Dementia,989,1001,98.8
+Moderate Dementia,92,98,93.88
+Non Demented,13409,13445,99.73
+Very mild Dementia,2574,2745,93.77
