@@ -1,6 +1,6 @@
 #        RESEARCH AND SOFTWARE IMPLEMENTATION OF NEURAL NETWORK TOOLS FOR MRI-BASED DIAGNOSING OF ALZHEIMER`S DISEASE
 
-** Gorpinich Iryna, Subbotin Serhii **
+**Gorpinich Iryna, Subbotin Serhii**
 
 The object of research is the process of computational diagnosis of dementia, driven by data based on magnetic resonance imaging (MRI) of the brain patients.
 The subject of the research is methods and tools for automated diagnosis of the stages of Alzheimer’s disease from MRI images based on deep neural networks.
